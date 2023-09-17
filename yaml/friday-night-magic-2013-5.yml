@@ -1,0 +1,118 @@
+---
+object: card
+id: a94cfc94-08cd-406b-8e58-0a69ea0e312f
+oracle_id: 22b7975c-37a5-4895-b209-bdeeec0c6aea
+multiverse_ids: []
+tcgplayer_id: 70914
+cardmarket_id: 261756
+name: Judge's Familiar
+lang: en
+released_at: '2013-01-01'
+uri: https://api.scryfall.com/cards/a94cfc94-08cd-406b-8e58-0a69ea0e312f
+scryfall_uri: https://scryfall.com/card/f13/5/judges-familiar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/9/a94cfc94-08cd-406b-8e58-0a69ea0e312f.jpg?1562497259
+  normal: https://cards.scryfall.io/normal/front/a/9/a94cfc94-08cd-406b-8e58-0a69ea0e312f.jpg?1562497259
+  large: https://cards.scryfall.io/large/front/a/9/a94cfc94-08cd-406b-8e58-0a69ea0e312f.jpg?1562497259
+  png: https://cards.scryfall.io/png/front/a/9/a94cfc94-08cd-406b-8e58-0a69ea0e312f.png?1562497259
+  art_crop: https://cards.scryfall.io/art_crop/front/a/9/a94cfc94-08cd-406b-8e58-0a69ea0e312f.jpg?1562497259
+  border_crop: https://cards.scryfall.io/border_crop/front/a/9/a94cfc94-08cd-406b-8e58-0a69ea0e312f.jpg?1562497259
+mana_cost: "{W/U}"
+cmc: 1.0
+type_line: Creature — Bird
+oracle_text: |-
+  Flying
+  Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays {1}.
+power: '1'
+toughness: '1'
+colors:
+- U
+- W
+color_identity:
+- U
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 4f0f5416-2f39-4339-8b9a-5454d94a4ca6
+set: f13
+set_name: Friday Night Magic 2013
+set_type: promo
+set_uri: https://api.scryfall.com/sets/4f0f5416-2f39-4339-8b9a-5454d94a4ca6
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a94cfc94-08cd-406b-8e58-0a69ea0e312f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A22b7975c-37a5-4895-b209-bdeeec0c6aea&unique=prints
+collector_number: '5'
+digital: false
+rarity: rare
+watermark: azorius
+flavor_text: |-
+  "It misses nothing and it has no sense of humor."
+  —Barvisa, courtroom scribe
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ryan Yee
+artist_ids:
+- 8955dca7-3e37-42b4-83a9-167c78a2178f
+illustration_id: 4279b421-0656-437b-bf22-407466f6902e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 5708
+penny_rank: 543
+prices:
+  usd: 
+  usd_foil: '3.09'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Judge%27s+Familiar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Judge%27s+Familiar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Judge%27s+Familiar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/70914?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Judge%27s+Familiar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Judge%27s+Familiar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,110 @@
+---
+object: card
+id: e574f1f8-ca61-43b4-8230-2636709a3855
+oracle_id: aafd44c1-74a9-4aa7-a4a2-67eb39a07478
+multiverse_ids: []
+tcgplayer_id: 70917
+cardmarket_id: 259856
+name: Searing Spear
+lang: en
+released_at: '2013-01-01'
+uri: https://api.scryfall.com/cards/e574f1f8-ca61-43b4-8230-2636709a3855
+scryfall_uri: https://scryfall.com/card/f13/1/searing-spear?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/5/e574f1f8-ca61-43b4-8230-2636709a3855.jpg?1562497262
+  normal: https://cards.scryfall.io/normal/front/e/5/e574f1f8-ca61-43b4-8230-2636709a3855.jpg?1562497262
+  large: https://cards.scryfall.io/large/front/e/5/e574f1f8-ca61-43b4-8230-2636709a3855.jpg?1562497262
+  png: https://cards.scryfall.io/png/front/e/5/e574f1f8-ca61-43b4-8230-2636709a3855.png?1562497262
+  art_crop: https://cards.scryfall.io/art_crop/front/e/5/e574f1f8-ca61-43b4-8230-2636709a3855.jpg?1562497262
+  border_crop: https://cards.scryfall.io/border_crop/front/e/5/e574f1f8-ca61-43b4-8230-2636709a3855.jpg?1562497262
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Searing Spear deals 3 damage to any target.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 4f0f5416-2f39-4339-8b9a-5454d94a4ca6
+set: f13
+set_name: Friday Night Magic 2013
+set_type: promo
+set_uri: https://api.scryfall.com/sets/4f0f5416-2f39-4339-8b9a-5454d94a4ca6
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e574f1f8-ca61-43b4-8230-2636709a3855/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaafd44c1-74a9-4aa7-a4a2-67eb39a07478&unique=prints
+collector_number: '1'
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: Sometimes you die a glorious death with your sword held high. Sometimes
+  you're just target practice.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 87b8f09e-456e-4680-bb01-d029b5f293bf
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 11892
+penny_rank: 609
+prices:
+  usd: 
+  usd_foil: '0.54'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.10'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Searing+Spear&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Searing+Spear&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Searing+Spear
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/70917?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Searing+Spear&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Searing+Spear&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
